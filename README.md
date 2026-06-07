@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Currently learning:
+<img width="70" alt="elixir" src="https://github.com/user-attachments/assets/4f550a26-ff31-4a78-b3f1-1554c769d782" />
+
 <!--
 **orussmann/orussmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
