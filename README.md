@@ -1,7 +1,12 @@
 ## Hi there 👋
 
 ### Currently learning:
-<img width="70" alt="elixir" src="https://github.com/user-attachments/assets/4f550a26-ff31-4a78-b3f1-1554c769d782" />
+<img width="100" alt="elixir" src="https://github.com/user-attachments/assets/4f550a26-ff31-4a78-b3f1-1554c769d782" />
+<!-- <img width="110" alt="pilot-bust" src="https://github.com/user-attachments/assets/1ea47651-e08f-4c7f-9ae3-aead7c1ed475" /> -->
+<img width="120" alt="motorcycle" src="https://github.com/user-attachments/assets/03f03dfc-df86-4288-b111-4c21cb254a84" />
+
+
+
 
 <!--
 **orussmann/orussmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
