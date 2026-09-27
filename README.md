@@ -1,10 +1,13 @@
 ## Hi there 👋
 
 ### Currently learning:
-<img width="100" alt="elixir" src="https://github.com/user-attachments/assets/4f550a26-ff31-4a78-b3f1-1554c769d782" />
+<img width="150" alt="elixir" src="https://github.com/user-attachments/assets/4f550a26-ff31-4a78-b3f1-1554c769d782" />
 <!-- <img width="110" alt="pilot-bust" src="https://github.com/user-attachments/assets/1ea47651-e08f-4c7f-9ae3-aead7c1ed475" /> -->
-<img width="120" alt="motorcycle" src="https://github.com/user-attachments/assets/03f03dfc-df86-4288-b111-4c21cb254a84" />
-<img width="150" height="150" alt="PHP" src="https://github.com/user-attachments/assets/c4ba8a1b-b42e-4240-bd86-93f5d4732b69" />
+<img height="150" alt="motorcycle" src="https://github.com/user-attachments/assets/03f03dfc-df86-4288-b111-4c21cb254a84" />
+<img height="150" alt="PHP" src="https://github.com/user-attachments/assets/c4ba8a1b-b42e-4240-bd86-93f5d4732b69" />
+<img height="150" alt="laravel-logo" src="https://github.com/user-attachments/assets/e77a40ff-5c26-4d4c-a592-bad408f6ffff" />
+
+
 
 <!--
 **orussmann/orussmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
