@@ -1,11 +1,15 @@
 ## Hi there 👋
 
 ### Currently learning:
-<img width="150" alt="elixir" src="https://github.com/user-attachments/assets/4f550a26-ff31-4a78-b3f1-1554c769d782" />
-<!-- <img width="110" alt="pilot-bust" src="https://github.com/user-attachments/assets/1ea47651-e08f-4c7f-9ae3-aead7c1ed475" /> -->
-<img height="150" alt="motorcycle" src="https://github.com/user-attachments/assets/03f03dfc-df86-4288-b111-4c21cb254a84" />
 <img height="150" alt="PHP" src="https://github.com/user-attachments/assets/c4ba8a1b-b42e-4240-bd86-93f5d4732b69" />
 <img height="150" alt="laravel-logo" src="https://github.com/user-attachments/assets/e77a40ff-5c26-4d4c-a592-bad408f6ffff" />
+<img height="150" alt="Claude_AI_symbol svg" src="https://github.com/user-attachments/assets/72f429f2-b353-4d49-bced-e1cff5e444e7" />
+
+
+## 
+<img width="50" alt="elixir" src="https://github.com/user-attachments/assets/4f550a26-ff31-4a78-b3f1-1554c769d782" />
+<!-- <img width="110" alt="pilot-bust" src="https://github.com/user-attachments/assets/1ea47651-e08f-4c7f-9ae3-aead7c1ed475" /> -->
+<img height="50" alt="motorcycle" src="https://github.com/user-attachments/assets/03f03dfc-df86-4288-b111-4c21cb254a84" />
 
 
 
